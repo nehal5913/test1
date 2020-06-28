@@ -16,9 +16,13 @@
   "dependencies": {
     "@popperjs/core": "^2.4.2",
     "bootstrap": "^4.5.0",
+<<<<<<< HEAD
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^1.9.1",
+=======
+    "jquery": "^3.5.0",
+>>>>>>> 31c45e5233e5b9105081a82a5ed18d77f05d2692
     "popper.js": "^1.16.0"
   }
 }
